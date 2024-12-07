@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhawarathnayaka" alt="madhawarathnayaka" /></a> </p>
 
-- 🔭 I’m currently working on [LawBo](https://github.com/Altier-Tech/lawbo-front-end-mobile)
+- 🔭 I’m currently working on [Aztra](https://github.com/Altier-Tech/lawbo-front-end-mobile)
 
-- 🌱 I’m currently learning **Java,c++,c#,Python**
+- 🌱 I’m currently learning **React,Node.js,Mongodb**
 
-- 💬 Ask me about **c++,java,python,c#**
+- 💬 Ask me about **c/c++,java,python,c#.Next.js,Mern,php,javascript,HTML**
 
 - 📫 How to reach me **madhawa.cs.lakshan560@gmail.com**
 
