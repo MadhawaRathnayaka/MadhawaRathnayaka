@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React,Node.js,Mongodb**
 
-- 💬 Ask me about **c/c++,java,python,c#.Next.js,Mern,php,javascript,HTML**
+- 💬 Ask me about **c/c++,java,python,c#.Next.js,Mern,php,javascript,HTML,React,Node.js,Mongodb**
 
 - 📫 How to reach me **madhawa.cs.lakshan560@gmail.com**
 
