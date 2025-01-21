@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **c/c++,java,python,c#.Next.js,Mern,php,javascript,HTML,React,Node.js,Mongodb**
 
-- 📫 How to reach me **madhawa.cs.lakshan560@gmail.com**
+- 📫 How to reach me **madhawalakshanlk@gmail.com**
 
 - ⚡ Fun fact **I Think I am funny sometimes**
 
